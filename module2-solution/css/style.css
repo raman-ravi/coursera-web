@@ -44,6 +44,26 @@
 	background: pink;
 }
 
+.tag1{
+	position: relative;
+	top: 0;
+	float: right;
+	padding: 5px 20px 5px 20px;
+	border-left: 2px solid #000;
+	border-bottom: 2px solid #000;
+	background: honeydew;
+}
+
+.tag2{
+	position: relative;
+	top: 0;
+	float: right;
+	padding: 5px 20px 5px 20px;
+	border-left: 2px solid #000;
+	border-bottom: 2px solid #000;
+	background: lightblue;
+}
+
 
 
 

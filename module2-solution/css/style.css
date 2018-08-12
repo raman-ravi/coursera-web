@@ -23,7 +23,7 @@
 	background-color: lightGray;
 	margin-left: auto;
 	margin-right: auto;
-	width: 90%;
+	width: 100%;
 	
 }
 
@@ -57,7 +57,7 @@
 
 .col-lg-4, .col-md-6, .col-sm-12, .col-md-12{
 	float: left;
-	padding-bottom: 5%;
+	padding: 10px;
 }
 
 
